@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shrutigajbhiye22
-- 👀 I’m interested in singing, designing and programming stuffs
+- 👀 I’m interested in designing and programming stuffs, especially in cyber security.
 - 🌱 I’m currently learning computer science with specialization in artificial intelligence 
 
 <!---
