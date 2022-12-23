@@ -28,6 +28,22 @@ You can click the Preview link to take a look at your changes.
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=shruti_gajbhiye)](https://holopin.io/@shruti_gajbhiye)
 ---
 
+<!--ABOUT ME CODE-->
+🌱 About Myself<br>   
+
+✔️ I am Shruti Gajbhiye, currently pursuing my bachelors from Indian Institute of Information Technology, Lucknow in *Computer Science & Artificial Intelligence*. <br>
+
+✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming and blockchain. <br>
+
+✔️ I have experience in Cloud Computing .<br>
+
+<br>
+
+
+<!--NOMINATION FOR STAR GIT LINK CODE-->
+<a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
+
+[![Gmail Badge](https://img.shields.io/badge/-lci2021051@iiitl.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lci2021051@iiitl.ac.in)](mailto:lci2021051@iiitl.ac.in)
 
  
  
