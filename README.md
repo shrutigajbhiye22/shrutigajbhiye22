@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=shrutigajbhiye22)]([https://holopin.io/@shruti_gajbhiye](https://www.holopin.io/@shruti_gajbhiye#))
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=shruti_gajbhiye)](https://holopin.io/@shruti_gajbhiye)
 ---
 
 
