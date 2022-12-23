@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 ✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming and blockchain. <br>
 
-✔️ I have experience in Cloud Computing .<br>
+✔️ I have experience in Cloud Computing.<br>
 
 <br>
 
@@ -46,6 +46,21 @@ You can click the Preview link to take a look at your changes.
 [![Gmail Badge](https://img.shields.io/badge/-lci2021051@iiitl.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lci2021051@iiitl.ac.in)](mailto:lci2021051@iiitl.ac.in)
 
  
- 
+ <!--CONNECT WITH ME-->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="(https://www.linkedin.com/in/shruti-gajbhiye-17321a223/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrutigajbhiye22" height="30" width="40" /></a>
+<!---->
+<a href="https://www.hackerrank.com/_shrutigajbhiye_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shrutigajbhiye22" height="30" width="40" /></a>
+<!---->
+<a href="https://www.instagram.com/_shrutigajbhiye_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrutigajbhiye22" height="30" width="40" /></a>
+<!---->
+<a href="https://www.facebook.com/shruti.gajbhiye.904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shrutigajbhiye22" height="30" width="40" /></a>
+<!---->
+<a href="https://twitter.com/ShrutiGajbhiye9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shrutigajbhiye22" height="30" width="40" /></a>
+<!---->
+<a href="https://www.reddit.com/user/shrutigajbhiye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="https://www.reddit.com/user/shrutigajbhiye" height="30" width="40" /></a>
+ </p>
+
 
 
