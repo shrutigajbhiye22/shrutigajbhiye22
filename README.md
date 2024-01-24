@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ------------------------------------------------------------------------------------------------
-
+<!--
 
 <h1 align="center">Hi 👋, I'm Shruti Gajbhiye</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -31,6 +31,8 @@ You can click the Preview link to take a look at your changes.
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<!--
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -56,4 +58,4 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutigajbhiye22&" alt="shrutigajbhiye22" /></p>
 
 
-
+-->
